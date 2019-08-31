@@ -1,0 +1,271 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	font-family: '微软雅黑';
+	list-style: none;
+}
+a{
+	color: #666;
+}
+body{
+	background-color: #f4f4f4;
+}
+.header{
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+
+}
+.top{
+	width: 1240px;
+	height: 70px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.top h1{
+	float: left;
+	margin-top: -10px;
+}
+.top h1 a{
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+.top h1 img{
+	width: 180px;
+	height: auto;
+}
+
+
+
+.content{
+	width: 100%;
+	height: 740px;
+	display: block;
+	background: url('../images/denglubeijing.png') no-repeat center;
+	background-color: #EDF9FB;
+}
+.banxin{
+	width: 1240px;
+	height: 740px;
+	margin: 0px auto;
+	position: relative;
+}
+
+.yanzhengmadenglu{
+	width: 298px;
+	background-color: #fff;
+	border-radius: 2px;
+	overflow: hidden;
+	position: absolute;
+	top: 16%;
+	right: 85px;
+	padding: 35px 35px 10px;
+}
+.yanzhengmadenglu h3{
+	text-align: center;
+	font-size:22px;
+	font-weight: 700;
+	color:#515151;
+	margin-top: 30px;
+
+}
+.shurukuang{
+	width: 276px;
+	height: 46px;
+	border: 1px solid #dadada;
+	margin: 0px auto;
+	padding: 0px 10px;
+	margin-top: 33px;
+	overflow: hidden;
+	margin-bottom:40px;
+}
+.left{
+	border-right: 1px solid #DDD;
+	color: grey;
+	float: left;
+	margin-top: 10px;
+	padding: 0px 5px;
+}
+
+.jiantou{
+	display: inline-block;
+	margin-left: 5px;
+	width: 14px;
+	height: 8px;
+	background: url('../images/xiajiantou.png');
+}
+.right{
+	float: left;
+	margin-left: 10px;
+}
+.shuru{
+	border: none;
+	margin-top: 12px;
+	font-size: 14px;
+}
+
+.denglu {
+	width: 300px;
+	line-height: 46px;
+	text-align: center;
+	background-color: #387aff;
+	margin-bottom: 10px;
+	border-radius: 4px;
+}
+.denglu a{
+	color: #fff;
+	font-size: 14px
+}
+.zhuce{
+	color: #387aff;
+	font-size: 14px;
+}
+.wangji{
+	color: #387aff;
+	font-size: 14px;
+	float: right;
+}
+.zhuce:hover,.wangji:hover{
+	color: #3058df;
+}
+.qiehuan{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+
+.footer{
+	width: 100%;
+	background-color: #fff;
+	overflow: hidden;
+	padding: 10px 0px;
+}
+.dibu{
+	width: 1000px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.xia{
+	overflow: hidden;
+	padding: 20px 0px;
+}
+.xia ul{
+	overflow: hidden;
+	float: left;
+}
+.xia ul li{
+	font-size: 14px;
+	float: left;
+	border-right: 1px solid #888;
+	padding-right: 10px;
+	margin-left: 10px; 
+}
+.xia ul li a{
+	color: black;
+}
+.xia ul li:nth-child(4) a{
+	color: #515151;
+}
+.xia ul li:nth-child(4) a:hover{
+	color: black;
+}
+.xia .last{
+	border: none;
+}
+.xia p{
+	font-size: 14px;
+	color: black;
+	float: left;
+}
+.xia p:nth-child(2){
+	margin-left: 36px;
+}
+.xia p:nth-child(3){
+	height: 20px;
+	background-color: #32a5e7;
+	color: #fff;
+	border-radius: 3px;
+	margin-left: 20px;
+	margin-top: -2px;
+	padding: 2px;
+}
+.xia .weibo{
+	background: url('../images/footer/base.png');
+	background-position: -218px -91px;
+	width: 32px;
+	height: 32px;
+	margin: 0px 10px;
+	margin-top: -5px;
+	float: right;
+}
+.weibo:hover{
+	background: url('../images/footer/base.png');
+	background-position: -218px -137px;
+}
+.xia .weixin{
+	background: url('../images/footer/base.png');
+	background-position: -302px -91px;
+	width: 32px;
+	height: 32px;
+	margin: 0px 10px;
+	margin-top: -5px;
+	float: right;
+}
+.weixin:hover{
+	background: url('../images/footer/base.png');
+	background-position: -302px -137px;
+}
+.xia .kongjian{
+	background: url('../images/footer/base.png');
+	background-position: -344px -91px;
+	width: 32px;
+	height: 32px;
+	margin: 0px 10px;
+	margin-top: -5px;
+	float: right;
+}
+.kongjian:hover{
+	background: url('../images/footer/base.png');
+	background-position: -344px -137px;
+}
+
+
+.xiatwo{
+	font-size: 12px;
+	color: #7f7f7f;
+	margin-bottom: 20px;
+}
+.xiatwo p:nth-child(1){
+	float: left;
+}
+.xiatwo a{
+	color: #7f7f7f；
+}
+.xiatwo a:hover{
+	color: #2b2b2b;
+}
+.xiatwo p:nth-child(5){
+	float: right;
+	margin-top: -5px;
+	margin-right: 40px;
+}
+.xiatwo p:nth-child(5) span{
+	width: 18px;
+	height: 18px;
+	background: url('../images/footer/huizhang2.png') no-repeat;
+	background-size: 18px 18px;
+	display: inline-block;
+	position: relative;
+	top: 4px;
+}
+
+
+
+
+
+
+
+
