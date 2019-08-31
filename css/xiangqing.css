@@ -21,10 +21,6 @@ body{
 	margin:0px auto ;
 	height: 81.2px;
 	/* overflow: hidden; */
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	right: 0px;
 	z-index: 999;
 }
 .top h1{
@@ -187,6 +183,7 @@ body{
 .section{
 	width: 100%;
 	background-color: #f6f8fb;
+	min-width: 1240px;
 }
 .first{
 	width: 1240px;

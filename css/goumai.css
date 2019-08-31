@@ -21,10 +21,6 @@ body{
 	margin:0px auto ;
 	height: 81.2px;
 	/* overflow: hidden; */
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	right: 0px;
 	z-index: 999;
 }
 .top h1{
@@ -173,6 +169,7 @@ body{
 .dingbu{
 	position: relative;
 	width: 100%;
+	overflow: hidden;
 	min-width: 1240px;
 }
 .dingbu a{
@@ -374,6 +371,9 @@ body{
 .tuijian{
 	width: 1240px;
 	margin: 10px auto;
+}
+.tuijianul{
+	overflow: hidden;
 }
 .tuijianul li{
 	background-color: #fff;
