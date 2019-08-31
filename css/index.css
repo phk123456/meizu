@@ -61,6 +61,7 @@ body{
 	left: 0px;
 	z-index: 98;
 	display: none;
+	min-width: 1240px;
 }
 .xiala ul{
 	width:1240px;
