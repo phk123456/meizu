@@ -8,6 +8,7 @@
 }
 body{
 	background-color: #f4f4f4;
+	min-width: 1240px;
 }
 .header{
 	position: relative;
