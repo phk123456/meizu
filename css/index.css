@@ -8,7 +8,6 @@
 }
 body{
 	background-color: #f4f4f4;
-	min-width: 1240px;
 }
 .header{
 	position: relative;
@@ -189,6 +188,7 @@ body{
 	height: 600px;
 	overflow: hidden;
 	position: relative;
+	min-width: 1240px;
 }
 .lunbotu>ul{
 	width: 800%;
@@ -236,6 +236,7 @@ body{
 .youhui{
 	width: 100%;
 	background-color: #fff;
+	min-width: 1240px;
 }
 .youhuiul{
 	width: 1240px;
@@ -275,6 +276,7 @@ body{
 .dingbu{
 	overflow: hidden;
 	position: relative;
+	min-width: 1240px;
 }
 .dingbu h3{
 	font-size:32px;
@@ -970,6 +972,7 @@ body{
 	margin-top: 30px;
 	overflow: hidden;
 	position: relative;
+	min-width: 1240px;
 }
 .dibu{
 	width: 1240px;
