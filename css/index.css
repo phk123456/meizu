@@ -193,7 +193,7 @@ body{
 }
 .lunbotu>ul{
 	width: 800%;
-	height: 700px;
+	height: 600px;
 	position: absolute;
 	left: 0%;
 }
@@ -211,6 +211,7 @@ body{
 	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
+	min-height: 600px;
 }
 .lunbotu>ol{
 	overflow: hidden;

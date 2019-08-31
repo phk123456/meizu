@@ -13,6 +13,7 @@ body{
 	position: relative;
 	width: 100%;
 	height: 82px;
+	min-width: 1240px;
 }
 .top{
 	width: 1240px;
@@ -60,6 +61,7 @@ body{
 	left: 0px;
 	z-index: 98;
 	display: none;
+	min-width: 1240px;
 }
 .xiala ul{
 	width:1240px;
@@ -186,6 +188,7 @@ body{
 	height: 100vh;
 	border-top: 1px solid #e8e8e8;
 	border-bottom: 1px solid #e8e8e8;
+	min-width: 1240px;
 }
 .section h4{
 	font-size: 48px;
@@ -239,6 +242,7 @@ body{
 .liaojie{
 	width: 100%;
 	position: relative;
+	min-width: 1240px;
 }
 .liaojie a{
 	width: 100%;
@@ -271,6 +275,7 @@ body{
 	background-color: #fff;
 	overflow: hidden;
 	position: relative;
+	min-width: 1240px;
 }
 .dibu{
 	width: 1240px;
